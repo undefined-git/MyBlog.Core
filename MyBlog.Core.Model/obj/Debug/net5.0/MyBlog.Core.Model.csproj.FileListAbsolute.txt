@@ -1,0 +1,15 @@
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\bin\Debug\net5.0\MyBlog.Core.Model.deps.json
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\bin\Debug\net5.0\MyBlog.Core.Model.dll
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\bin\Debug\net5.0\ref\MyBlog.Core.Model.dll
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\bin\Debug\net5.0\MyBlog.Core.Model.pdb
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\bin\Debug\net5.0\MyBlog.Core.Common.dll
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\bin\Debug\net5.0\MyBlog.Core.Common.pdb
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\obj\Debug\net5.0\MyBlog.Core.Model.csprojAssemblyReference.cache
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\obj\Debug\net5.0\MyBlog.Core.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\obj\Debug\net5.0\MyBlog.Core.Model.AssemblyInfoInputs.cache
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\obj\Debug\net5.0\MyBlog.Core.Model.AssemblyInfo.cs
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\obj\Debug\net5.0\MyBlog.Core.Model.csproj.CoreCompileInputs.cache
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\obj\Debug\net5.0\MyBlog.Core.Model.csproj.CopyComplete
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\obj\Debug\net5.0\MyBlog.Core.Model.dll
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\obj\Debug\net5.0\ref\MyBlog.Core.Model.dll
+D:\Code\TestCode\MyBlog.Core\MyBlog.Core.Model\obj\Debug\net5.0\MyBlog.Core.Model.pdb

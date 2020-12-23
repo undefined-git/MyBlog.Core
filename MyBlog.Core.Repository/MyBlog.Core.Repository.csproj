@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<OutputPath>..\MyBlog.Core.Api\bin\Debug\</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<OutputPath>..\MyBlog.Core\bin\Release\</OutputPath>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\MyBlog.Core.Model\MyBlog.Core.Model.csproj" />
+	</ItemGroup>
+
+</Project>

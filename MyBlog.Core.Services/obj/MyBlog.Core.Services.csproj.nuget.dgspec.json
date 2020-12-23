@@ -1,0 +1,340 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Services\\MyBlog.Core.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Common\\MyBlog.Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Common\\MyBlog.Core.Common.csproj",
+        "projectName": "MyBlog.Core.Common",
+        "projectPath": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Common\\MyBlog.Core.Common.csproj",
+        "packagesPath": "C:\\Users\\Fnx\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fnx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.IServices\\MyBlog.Core.IServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.IServices\\MyBlog.Core.IServices.csproj",
+        "projectName": "MyBlog.Core.IServices",
+        "projectPath": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.IServices\\MyBlog.Core.IServices.csproj",
+        "packagesPath": "C:\\Users\\Fnx\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.IServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fnx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Model\\MyBlog.Core.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Model\\MyBlog.Core.Model.csproj",
+        "projectName": "MyBlog.Core.Model",
+        "projectPath": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Model\\MyBlog.Core.Model.csproj",
+        "packagesPath": "C:\\Users\\Fnx\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fnx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Common\\MyBlog.Core.Common.csproj": {
+                "projectPath": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Common\\MyBlog.Core.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "sqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Repository\\MyBlog.Core.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Repository\\MyBlog.Core.Repository.csproj",
+        "projectName": "MyBlog.Core.Repository",
+        "projectPath": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Repository\\MyBlog.Core.Repository.csproj",
+        "packagesPath": "C:\\Users\\Fnx\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fnx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Model\\MyBlog.Core.Model.csproj": {
+                "projectPath": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Model\\MyBlog.Core.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Services\\MyBlog.Core.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Services\\MyBlog.Core.Services.csproj",
+        "projectName": "MyBlog.Core.Services",
+        "projectPath": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Services\\MyBlog.Core.Services.csproj",
+        "packagesPath": "C:\\Users\\Fnx\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fnx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.IServices\\MyBlog.Core.IServices.csproj": {
+                "projectPath": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.IServices\\MyBlog.Core.IServices.csproj"
+              },
+              "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Repository\\MyBlog.Core.Repository.csproj": {
+                "projectPath": "D:\\Code\\TestCode\\MyBlog.Core\\MyBlog.Core.Repository\\MyBlog.Core.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

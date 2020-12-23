@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+		<PackageReference Include="Autofac.Extras.DynamicProxy" Version="5.0.0" />
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\MyBlog.Core.Services\MyBlog.Core.Services.csproj" />
+	</ItemGroup>
+</Project>
